@@ -1,5 +1,9 @@
 # 이력서
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=blue)](http://makeapullrequest.com)
+![contributor](https://img.shields.io/github/contributors/eun2ce/RESUME.svg?color=blue)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eun2ce/RESUME/main?color=blue)
+
 ## 소개
 
 * email: joeun2ce@gmail.com
