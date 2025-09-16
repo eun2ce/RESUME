@@ -58,5 +58,12 @@
 
 ---
 
+## 지인 평가
+
+---
+
+지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
+<br/>
+
 읽어주셔서 감사합니다.  
 궁금한 점은 joeun2ce@gmail.com 으로 편하게 메일 주세요.
