@@ -6,9 +6,9 @@
 
 ## 소개
 
-* email: joeun2ce@gmail.com
-* github: [github.com/eun2ce](https://github.com/eun2ce)
-* linked in: [linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce)
+* email: rockmanzero@naver.com
+* github: [github.com/lim4349](https://github.com/lim4349)
+* linked in: [https://www.linkedin.com/in/seong-geun-lim-190b44170/](https://www.linkedin.com/in/seong-geun-lim-190b44170/)
 
 ## 업무 역량
 
@@ -19,33 +19,32 @@
 
 ## 경력
 
-* [인포플라](https://www.infofla.com/) (2025 ~)
-* 프리랜서 (2023 ~ 2025)
-* [안랩](https://www.ahnlab.com/) (2019 ~ 2023)
+* [인포플라](https://www.infofla.com/) (2023 ~)
+
 
 ## 대외 활동
 
-* [파운더스 2019](https://www.decenter.kr/NewsView/1VGLKLN4T2/GZ02)
+* 
 
 ## 오픈소스 기여
 
-### git-goods/gitanimals
+### git
 
-* [길드명 생성 시 비속어 필터 추가 제안](https://github.com/git-goods/gitanimals/pull/262)
+* [
 
-### EOSIO/eos
+### E
 
-* [사용하지 않는 변수 제거](https://github.com/EOSIO/eos/pull/6934)
+* [
 
-### Game-X-Coin/gxc.contracts
+### Game
 
-* [floatable 옵션기능 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/12)
-* [문서 저장에 사용되는 시간형식을 권장 방식으로 수정](https://github.com/Game-X-Coin/gxc.contracts/pull/19)
-* [c++ boost unit test 기반 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/14)
+* [
+* [
+* [
 
-### eosdevkr/eosio-doc
+### e
 
-* [한글화 문서 참여](https://github.com/eosdevkr/eosio-doc/pull/22)
+* 
 
 ## 사용 기술
 
@@ -62,8 +61,8 @@
 
 ---
 
-지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
+지인분의 평가는 [Pull Request](https://github.com/lim4349/RESUME/pulls) 로 받고있습니다.
 <br/>
 
 읽어주셔서 감사합니다.  
-궁금한 점은 joeun2ce@gmail.com 으로 편하게 메일 주세요.
+궁금한 점은 rockmanzero@naver.com 으로 편하게 메일 주세요.
