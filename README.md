@@ -59,7 +59,8 @@
 ---
 
 ## 지인 평가
-
+### [임성근](https://github.com/lim4349)(개발자, [Infofla Inc.](https://infofla.com/))
+> 본인만 빛나는게 아닌 다른 사람까지 빛나게 해주는 사람.
 ---
 
 지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
