@@ -19,15 +19,19 @@
 
 ## 경력
 
-* [인포플라](https://www.infofla.com/) (2025 ~)
-* 프리랜서 (2023 ~ 2025)
-* [안랩](https://www.ahnlab.com/) (2019 ~ 2023)
+* [인포플라](https://www.infofla.com/) (2025.4 ~)
+* 프리랜서 (2023.7 ~ 2025.3)
+* [안랩](https://www.ahnlab.com/)  (2019.9 ~ 2023.7)
 
 ## 대외 활동
 
 * [파운더스 2019](https://www.decenter.kr/NewsView/1VGLKLN4T2/GZ02)
 
 ## 오픈소스 기여
+
+### xlang-ai/OSWorld
+
+* [UITARSAgent에서 a11y_tree 모드 지원](https://github.com/xlang-ai/OSWorld/pull/346)
 
 ### git-goods/gitanimals
 
@@ -49,21 +53,24 @@
 
 ## 사용 기술
 
-| 분야             | 기술                                      | 숙련도                                                                 |
-|----------------|-----------------------------------------|---------------------------------------------------------------------|
-| **Backend**    | Java, Scala, Python(DRF, FastAPI)       | 실무 수준의 서비스를 개발하고 유지보수할 수 있습니다.                                      |
-| **DevOps**     | ElasticSearch, Kubernetes, Helm, Docker | 클러스터를 구성하고 장애 발생 시 문제를 분석 및 해결할 수 있으며, 배포 자동화와 운영 대응도 수행할 수 있습니다.   |
-| **CI/CD & 협업** | Git, Git-Flow, Jira, GitHub Actions     | 형상 관리와 협업 도구를 활용할 수 있으며, GitHub Actions를 이용한 자동화 워크플로우도 구성할 수 있습니다. |
-| **Frontend**   | React, Vue                              | 자료를 참고해 프로토타입을 구현할 수 있습니다.                                          |
-
----
+* Backend : Python(FastAPI, DRF), Java, Scala
+* AI/ML : HuggingFace, Qwen-VL, LangChain, MLflow
+* MLOps : ElasticSearch, Vector DB
+* DevOps : Kubernetes(EKS), Helm, Docker, AWS(EFS/S3/RDS), Traefik
+* CI/CD : Git, GitHub Actions, Git-Flow, Jira
+* Frontend : React, Vue
 
 ## 지인 평가
+
 ### [임성근](https://github.com/lim4349)(개발자, [Infofla Inc.](https://infofla.com/))
 > 본인만 빛나는게 아닌 다른 사람까지 빛나게 해주는 사람.
+
 ---
 
 지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
+
+---
+
 <br/>
 
 읽어주셔서 감사합니다.  
