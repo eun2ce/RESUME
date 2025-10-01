@@ -39,7 +39,7 @@
 ## 교육
 
 * 네이버 AI Tech 4기 NLP트랙 수료  2022.09 ~ 2023.02
-* Google Developers Machine Learning Bootcamp 수료  2022.06 ~ 20220.09
+* Google Developers Machine Learning Bootcamp 수료  2022.06 ~ 2022.09
 
 ## 외국어
 * TOEIC Speaking IH 140 2022.09.12
