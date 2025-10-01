@@ -12,49 +12,51 @@
 
 ## 업무 역량
 
-* 기술과 방법론을 활용해 문제를 해결하고, 상황에 맞는 기술을 선택합니다.
-* 반복적인 흐름을 줄이고 효율적인 작업 방식을 고민합니다.
-* 익숙하지 않은 기술도 학습해서 필요한 결과를 만듭니다.
-* 소통할 때 맥락과 의도를 분명히 하되, 부담 없는 대화를 지향합니다.
+
+* 책임감을 가지고 문제를 해결합니다.
+* 최신 AI 기술과 논문을 탐색하고 실무에 적극 적용하면서 일합니다.
+* 새로운 기술을 빠르게 학습하고 적용합니다.
+* 객관적인 시선으로 소통하며 일합니다.
+* 질문을 두려워하지 않습니다.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 경력
 
-* [인포플라](https://www.infofla.com/) (2023 ~)
+* [인포플라](https://www.infofla.com/) (2023.8 ~)
 
 
-## 대외 활동
+## 교육
 
-* 
+* 네이버 AI Tech 4기 NLP트랙 수료  2022.09 ~ 2023.02
+* Google Developers Machine Learning Bootcamp 수료  2022.06 ~ 20220.09
+
+## 외국어
+* TOEIC Speaking IH 140 2022.09.12
 
 ## 오픈소스 기여
 
-### git
+### Ipyparallel
 
-* [
+* https://github.com/ipython/ipyparallel/pull/406
 
-### E
 
-* [
-
-### Game
-
-* [
-* [
-* [
-
-### e
-
-* 
 
 ## 사용 기술
 
-| 분야             | 기술                                      | 숙련도                                                                 |
-|----------------|-----------------------------------------|---------------------------------------------------------------------|
-| **Backend**    | Java, Scala, Python(DRF, FastAPI)       | 실무 수준의 서비스를 개발하고 유지보수할 수 있습니다.                                      |
-| **DevOps**     | ElasticSearch, Kubernetes, Helm, Docker | 클러스터를 구성하고 장애 발생 시 문제를 분석 및 해결할 수 있으며, 배포 자동화와 운영 대응도 수행할 수 있습니다.   |
-| **CI/CD & 협업** | Git, Git-Flow, Jira, GitHub Actions     | 형상 관리와 협업 도구를 활용할 수 있으며, GitHub Actions를 이용한 자동화 워크플로우도 구성할 수 있습니다. |
-| **Frontend**   | React, Vue                              | 자료를 참고해 프로토타입을 구현할 수 있습니다.                                          |
-
+* AI/ML : Pytorch, HuggingFace, Qwen, LangChain, MLflow, VectorDB
+* Backend : Python(FastAPI)
+* OPS : Kubernetes, Docker
 ---
 
 ## 지인 평가
