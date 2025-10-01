@@ -8,7 +8,7 @@
 
 * email: rockmanzero@naver.com
 * github: [github.com/lim4349](https://github.com/lim4349)
-* linked in: [https://www.linkedin.com/in/seong-geun-lim-190b44170/](https://www.linkedin.com/in/seong-geun-lim-190b44170/)
+* linkedin: [https://www.linkedin.com/in/seong-geun-lim-190b44170/](https://www.linkedin.com/in/seong-geun-lim-190b44170/)
 
 ## 업무 역량
 
