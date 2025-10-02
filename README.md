@@ -20,7 +20,6 @@
 ## 경력
 
 - [인포플라](https://www.infofla.com/) - AIOps (2025.4 ~)
-- 프리랜서 (2023.7 ~ 2025.3) - S/W Engineer
 - [안랩](https://www.ahnlab.com/) - S/W Engineer (2019.9 ~ 2023.7)
 
 ## 대외 활동
