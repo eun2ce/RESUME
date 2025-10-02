@@ -29,6 +29,10 @@
 
 ## 오픈소스 기여
 
+### huggingface/transformers
+
+* [Qwen3-Omni 모델의 audio_token_id 직렬화 문제 해결](https://github.com/huggingface/transformers/pull/41192)
+
 ### xlang-ai/OSWorld
 
 * [UITARSAgent에서 a11y_tree 모드 지원](https://github.com/xlang-ai/OSWorld/pull/346)
