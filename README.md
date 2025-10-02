@@ -6,63 +6,56 @@
 
 ## 소개
 
-* email: joeun2ce@gmail.com
-* github: [github.com/eun2ce](https://github.com/eun2ce)
-* linked in: [linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce)
+- email: joeun2ce@gmail.com
+- github: [github.com/eun2ce](https://github.com/eun2ce)
+- linked in: [linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce)
 
 ## 업무 역량
 
-* 기술과 방법론을 활용해 문제를 해결하고, 상황에 맞는 기술을 선택합니다.
-* 반복적인 흐름을 줄이고 효율적인 작업 방식을 고민합니다.
-* 익숙하지 않은 기술도 학습해서 필요한 결과를 만듭니다.
-* 소통할 때 맥락과 의도를 분명히 하되, 부담 없는 대화를 지향합니다.
+- 기술과 방법론을 활용해 문제를 해결하고, 상황에 맞는 기술을 선택합니다.
+- 반복적인 흐름을 줄이고 효율적인 작업 방식을 고민합니다.
+- 익숙하지 않은 기술도 학습해서 필요한 결과를 만듭니다.
+- 소통할 때 맥락과 의도를 분명히 하되, 부담 없는 대화를 지향합니다.
 
 ## 경력
 
-* [인포플라](https://www.infofla.com/) (2025.4 ~)
-* 프리랜서 (2023.7 ~ 2025.3)
-* [안랩](https://www.ahnlab.com/)  (2019.9 ~ 2023.7)
+- [인포플라](https://www.infofla.com/) - AIOps (2025.4 ~)
+- 프리랜서 (2023.7 ~ 2025.3) - S/W Engineer
+- [안랩](https://www.ahnlab.com/) - S/W Engineer (2019.9 ~ 2023.7)
 
 ## 대외 활동
 
-* [파운더스 2019](https://www.decenter.kr/NewsView/1VGLKLN4T2/GZ02)
+- [파운더스 2019](https://www.decenter.kr/NewsView/1VGLKLN4T2/GZ02)
 
 ## 오픈소스 기여
 
-### huggingface/transformers
+- **huggingface/transformers**  
+  [Qwen3-Omni 모델의 audio_token_id 직렬화 문제 해결](https://github.com/huggingface/transformers/pull/41192)
 
-* [Qwen3-Omni 모델의 audio_token_id 직렬화 문제 해결](https://github.com/huggingface/transformers/pull/41192)
+- **xlang-ai/OSWorld**  
+  [UITARSAgent에서 a11y_tree 모드 지원](https://github.com/xlang-ai/OSWorld/pull/346)
 
-### xlang-ai/OSWorld
+- **git-goods/gitanimals**  
+  [길드명 생성 시 비속어 필터 추가 제안](https://github.com/git-goods/gitanimals/pull/262)
 
-* [UITARSAgent에서 a11y_tree 모드 지원](https://github.com/xlang-ai/OSWorld/pull/346)
+- **EOSIO/eos**  
+  [사용하지 않는 변수 제거](https://github.com/EOSIO/eos/pull/6934)
 
-### git-goods/gitanimals
+- **Game-X-Coin/gxc.contracts**  
+  - [floatable 옵션기능 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/12)  
+  - [문서 저장에 사용되는 시간형식을 권장 방식으로 수정](https://github.com/Game-X-Coin/gxc.contracts/pull/19)  
+  - [c++ boost unit test 기반 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/14)
 
-* [길드명 생성 시 비속어 필터 추가 제안](https://github.com/git-goods/gitanimals/pull/262)
+- **eosdevkr/eosio-doc**  
+  [한글화 문서 참여](https://github.com/eosdevkr/eosio-doc/pull/22)
 
-### EOSIO/eos
 
-* [사용하지 않는 변수 제거](https://github.com/EOSIO/eos/pull/6934)
+## 사용 기술 
 
-### Game-X-Coin/gxc.contracts
+> Vibecoding Lover · Vibe-Debugger — 특정 기술에 종속되지 않고 문제 해결에 가장 적합한 도구를 선택합니다.
 
-* [floatable 옵션기능 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/12)
-* [문서 저장에 사용되는 시간형식을 권장 방식으로 수정](https://github.com/Game-X-Coin/gxc.contracts/pull/19)
-* [c++ boost unit test 기반 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/14)
-
-### eosdevkr/eosio-doc
-
-* [한글화 문서 참여](https://github.com/eosdevkr/eosio-doc/pull/22)
-
-## 사용 기술
-
-* Backend : Python(FastAPI, DRF), Java, Scala
-* AI/ML : HuggingFace, Qwen-VL, LangChain, MLflow
-* MLOps : ElasticSearch, Vector DB
-* DevOps : Kubernetes(EKS), Helm, Docker, AWS(EFS/S3/RDS), Traefik
-* CI/CD : Git, GitHub Actions, Git-Flow, Jira
-* Frontend : React, Vue
+- ~Python FastAPI, Scala Finagle~
+- ~React~
 
 ## 지인 평가
 
