@@ -19,7 +19,7 @@
 
 ## 경력
 
-- [인포플라](https://www.infofla.com/) - AIOps (2025.4 ~)
+- [인포플라](https://www.infofla.com/) - AIOps (2025.4 ~ 2025.10)
 - [안랩](https://www.ahnlab.com/) - S/W Engineer (2019.9 ~ 2023.7)
 
 ## 대외 활동
@@ -67,6 +67,7 @@
 ---
 
 지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
+> [PR 남기는 방법](https://eun2ce.github.io/posts/how-to-contribute-github/)
 
 ---
 
