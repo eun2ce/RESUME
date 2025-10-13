@@ -1,21 +1,15 @@
-# 이력서
+# 조은희
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=blue)](http://makeapullrequest.com)
-![contributor](https://img.shields.io/github/contributors/eun2ce/RESUME.svg?color=blue)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/eun2ce/RESUME/main?color=blue)
+[📧 joeun2ce@gmail.com](mailto:joeun2ce@gmail.com) | [🌐 linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce) | [💻 github.com/eun2ce](https://github.com/eun2ce)
 
-## 소개
+## 스킬
 
-- email: joeun2ce@gmail.com
-- github: [github.com/eun2ce](https://github.com/eun2ce)
-- linked in: [linkedin.com/in/eun2ce](https://www.linkedin.com/in/eun2ce)
+> Vibecoding Lover · Vibe-Debugger  
+> 특정 기술에 종속되지 않고 문제 해결에 가장 적합한 도구를 선택하기위해 노력합니다.  
+> 최근엔 AI 에이전트를 잘 사용하기 위한 컨텍스트 엔지니어링에 관심이 있습니다.
 
-## 업무 역량
-
-- 기술과 방법론을 활용해 문제를 해결하고, 상황에 맞는 기술을 선택합니다.
-- 반복적인 흐름을 줄이고 효율적인 작업 방식을 고민합니다.
-- 익숙하지 않은 기술도 학습해서 필요한 결과를 만듭니다.
-- 소통할 때 맥락과 의도를 분명히 하되, 부담 없는 대화를 지향합니다.
+- ~Python FastAPI, Scala Finagle~
+- ~React~
 
 ## 경력
 
@@ -34,44 +28,37 @@
 - **xlang-ai/OSWorld**  
   [UITARSAgent에서 a11y_tree 모드 지원](https://github.com/xlang-ai/OSWorld/pull/346)
 
-- **git-goods/gitanimals**  
-  [길드명 생성 시 비속어 필터 추가 제안](https://github.com/git-goods/gitanimals/pull/262)
-
 - **EOSIO/eos**  
   [사용하지 않는 변수 제거](https://github.com/EOSIO/eos/pull/6934)
 
-- **Game-X-Coin/gxc.contracts**  
-  - [floatable 옵션기능 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/12)  
-  - [문서 저장에 사용되는 시간형식을 권장 방식으로 수정](https://github.com/Game-X-Coin/gxc.contracts/pull/19)  
-  - [c++ boost unit test 기반 테스트 추가](https://github.com/Game-X-Coin/gxc.contracts/pull/14)
+## 평판
 
-- **eosdevkr/eosio-doc**  
-  [한글화 문서 참여](https://github.com/eosdevkr/eosio-doc/pull/22)
+### 지인
 
-
-## 사용 기술 
-
-> Vibecoding Lover · Vibe-Debugger — 특정 기술에 종속되지 않고 문제 해결에 가장 적합한 도구를 선택합니다.
-
-- ~Python FastAPI, Scala Finagle~
-- ~React~
-
-## 지인 평가
-
-### [임성근](https://github.com/lim4349)(개발자, [Infofla Inc.](https://infofla.com/))
+#### [임성근](https://github.com/lim4349)(개발자, [Infofla Inc.](https://infofla.com/))
 > 본인만 빛나는게 아닌 다른 사람까지 빛나게 해주는 사람.
 
-### [박진우](https://github.com/PJINU)(개발자, [Infofla Inc.](https://infofla.com/))
+#### [박진우](https://github.com/PJINU)(개발자, [Infofla Inc.](https://infofla.com/))
 > 혼자만 발전하는게 아닌 주위의 다른 동료들도 함께 발전할 수 있도록 도와주고 이끌어주는 사람입니다.
+
+### 익명
+
+[스펙터(Specter)](https://www.specter.co.kr/) 에도 이전에 함께 일했던 동료들이 익명으로 남긴 평판이 일부 등록되어 있습니다. 
 
 ---
 
 지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
 > [PR 남기는 방법](https://eun2ce.github.io/posts/how-to-contribute-github/)
 
+또는 익명으로 남기고 싶다면
+> [스펙터(Specter)](https://www.specter.co.kr/) 에서 평판을 남겨주세요.
+
 ---
 
-<br/>
+읽어주셔서 감사합니다.
 
-읽어주셔서 감사합니다.  
-궁금한 점은 joeun2ce@gmail.com 으로 편하게 메일 주세요.
+<!--
+## References
+- https://github.com/JSpiner/RESUME
+- https://github.com/eun2ce/RESUME
+-->
