@@ -61,6 +61,9 @@
 ### [임성근](https://github.com/lim4349)(개발자, [Infofla Inc.](https://infofla.com/))
 > 본인만 빛나는게 아닌 다른 사람까지 빛나게 해주는 사람.
 
+### [박진우](https://github.com/PJINU)(개발자, [Infofla Inc.](https://infofla.com/))
+> 혼자만 발전하는게 아닌 주위의 다른 동료들도 함께 발전할 수 있도록 도와주고 이끌어주는 사람입니다.
+
 ---
 
 지인분의 평가는 [Pull Request](https://github.com/eun2ce/RESUME/pulls) 로 받고있습니다.
