@@ -50,6 +50,9 @@
 
 * https://github.com/ipython/ipyparallel/pull/406
 
+### Qwen3-VL
+* https://huggingface.co/Qwen/Qwen3-VL-8B-Instruct/commit/b7e6648971e1df2bace07afbce08a5733b620033
+
 
 
 ## 사용 기술
