@@ -41,6 +41,10 @@
 #### [박진우](https://github.com/PJINU)(개발자, [Infofla Inc.](https://infofla.com/))
 > 혼자만 발전하는게 아닌 주위의 다른 동료들도 함께 발전할 수 있도록 도와주고 이끌어주는 사람입니다.
 
+#### [권혁민](https://github.com/kwon-hm)(개발자, [Infofla Inc.](https://infofla.com/))
+> 가독성이 높고 중복이 적으며 단순하고 확장 가능한 코드 작성을 위해 노력하는 사람.
+> 배울 점이 많고 같이 일하고 싶은 동료.
+
 ### 익명
 
 [스펙터(Specter)](https://www.specter.co.kr/) 에도 이전에 함께 일했던 동료들이 익명으로 남긴 평판이 일부 등록되어 있습니다. 
