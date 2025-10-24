@@ -13,7 +13,8 @@
 
 ## 경력
 
-- [인포플라](https://www.infofla.com/) - AIOps (2025.4 ~ 2025.10)
+- [아하앤컴퍼니](https://www.a-ha.io/) - MLOps Engineer (2025.10 ~ 지금)
+- [인포플라](https://www.infofla.com/) - AIOps Engineer (2025.4 ~ 2025.10)
 - [안랩](https://www.ahnlab.com/) - S/W Engineer (2019.9 ~ 2023.7)
 
 ## 대외 활동
