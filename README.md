@@ -23,7 +23,7 @@
 
 ## 오픈소스 기여
 
-- **astral-sh/uv**
+- **astral-sh/uv**  
   [uvx 커맨드 툴을 사용 해 없는 패키지를 찾는 경우, 403 인증 에러메시지 수정](https://github.com/astral-sh/uv/pull/16353)
 
 - **huggingface/transformers**  
