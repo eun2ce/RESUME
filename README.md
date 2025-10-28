@@ -23,6 +23,9 @@
 
 ## 오픈소스 기여
 
+- **kubernetes/kubernetes, kubernetes/test-infra**  
+  [테스트 인프라 개선: 중복 코드 제거 및 CI 자동화 효율성 향상](https://github.com/kubernetes/kubernetes/pull/134303) ([test-infra#35613](https://github.com/kubernetes/test-infra/pull/35613))
+
 - **astral-sh/uv**  
   [uvx 커맨드 툴을 사용 해 없는 패키지를 찾는 경우, 403 인증 에러메시지 수정](https://github.com/astral-sh/uv/pull/16353)
 
